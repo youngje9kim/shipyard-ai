@@ -13,6 +13,12 @@
       "source": "./plugins/example-plugin",
       "description": "새 플러그인을 만들 때 참고할 예시 플러그인",
       "version": "0.1.0"
+    },
+    {
+      "name": "qc-kit",
+      "source": "./plugins/qc-kit",
+      "description": "주간 품질 보고(집계 → 감사 → 회의 문장) 스킬, 에이전트, data/ 보호 훅 묶음",
+      "version": "0.1.0"
     }
   ]
 }
