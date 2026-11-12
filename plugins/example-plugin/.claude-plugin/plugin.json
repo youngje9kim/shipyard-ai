@@ -1,0 +1,8 @@
+{
+  "name": "example-plugin",
+  "description": "새 플러그인을 만들 때 참고할 예시 플러그인",
+  "version": "0.1.0",
+  "author": {
+    "name": "youngje9kim"
+  }
+}

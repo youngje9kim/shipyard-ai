@@ -1,0 +1,18 @@
+{
+  "name": "shipyard-ai",
+  "owner": {
+    "name": "youngje9kim"
+  },
+  "metadata": {
+    "description": "팀에서 함께 쓰는 Claude Code 플러그인 마켓플레이스",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "새 플러그인을 만들 때 참고할 예시 플러그인",
+      "version": "0.1.0"
+    }
+  ]
+}
