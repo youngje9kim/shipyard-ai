@@ -1,0 +1,17 @@
+{
+  "name": "qna-helper",
+  "version": "0.1.0",
+  "description": "사내 기술 QnA 게시판을 검색하고 게시판 글만 근거로 답하는 MCP 서버와 ask 스킬",
+  "author": {
+    "name": "김영제"
+  },
+  "userConfig": {
+    "qna_api": {
+      "type": "string",
+      "title": "QnA 게시판 주소",
+      "description": "사내 QnA 게시판 주소 (예: http://localhost:3001). 끝에 /를 붙이지 않는다.",
+      "required": true,
+      "sensitive": false
+    }
+  }
+}

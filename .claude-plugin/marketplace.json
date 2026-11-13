@@ -19,6 +19,12 @@
       "source": "./plugins/qc-kit",
       "description": "주간 품질 보고(집계 → 감사 → 회의 문장) 스킬, 에이전트, data/ 보호 훅 묶음",
       "version": "0.1.0"
+    },
+    {
+      "name": "qna-helper",
+      "source": "./plugins/qna-helper",
+      "description": "사내 기술 QnA 게시판을 검색하고 게시판 글만 근거로 답하는 MCP 서버와 ask 스킬",
+      "version": "0.1.0"
     }
   ]
 }
